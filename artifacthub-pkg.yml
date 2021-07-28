@@ -38,5 +38,5 @@ install: |
 recommendations:
   - url: https://artifacthub.io/packages/helm/keptn/keptn
 annotations:
-  - keptn/kind: "service,sli-provider"
-  - keptn/version: "0.8.3"
+  keptn/kind: "service,sli-provider"
+  keptn/version: "0.8.3"
